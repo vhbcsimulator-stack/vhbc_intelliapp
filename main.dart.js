@@ -29053,7 +29053,7 @@ var $async$a1h=A.r(function(a,b){if(a===1)return A.t(b,r)
 for(;;)switch(s){case 0:if($.a6==null)A.apG()
 $.a6.toString
 s=2
-return A.o($.aEY().xH("assets/env"),$async$a1h)
+return A.o($.aEY().xH("assets/env.txt"),$async$a1h)
 case 2:q=$.aEY().ga_z().h(0,"SUPABASE_URL")
 p=$.aEY().ga_z().h(0,"SUPABASE_ANON_KEY")
 if(q==null||p==null)throw A.e(A.em("Missing Supabase configuration. Please set SUPABASE_URL and SUPABASE_ANON_KEY in .env"))
